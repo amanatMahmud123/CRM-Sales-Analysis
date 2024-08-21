@@ -70,10 +70,10 @@ The primary objective is to provide actionable insights that will optimize sales
 
 ## 📌 Project Presentation
 ### Video Presentation
-[![CRM & Sales Analysis Presentation](https://github.com/amanat-mahmud/crm_and_sales/blob/main/cover.png)](https://www.linkedin.com/feed/update/urn:li:activity:7222201387374297088/)
+[![CRM & Sales Analysis Presentation](https://github.com/amanatMahmud123/CRM-Sales-Analysis/blob/main/cover.png)](https://www.linkedin.com/feed/update/urn:li:activity:7222201387374297088/)
 
 ### Slides
-The detailed presentation slides for this project can be found [here](https://github.com/amanat-mahmud/crm_and_sales/blob/main/slide.pdf)
+The detailed presentation slides for this project can be found [here](https://github.com/amanatMahmud123/CRM-Sales-Analysis/blob/main/slide.pdf)
 
 ## 🧠 Project Learnings
 1. Data Loading and Transformations.
@@ -94,6 +94,6 @@ The detailed presentation slides for this project can be found [here](https://gi
 
 ## 📈 Dashboard
 - [Live Dasboard](https://tinyurl.com/2zk3rw56)
-<img style="border-radius:25px;" src="https://github.com/amanat-mahmud/crm_and_sales/blob/main/Dashboard%20SS/overview.png">
+<img style="border-radius:25px;" src="https://github.com/amanatMahmud123/CRM-Sales-Analysis/blob/main/Dashboard%20SS/overview.png">
 
-- [**More Images**](https://github.com/amanat-mahmud/crm_and_sales/tree/main/Dashboard%20SS)
+- [**More Images**](https://github.com/amanatMahmud123/CRM-Sales-Analysis/tree/main/Dashboard%20SS)
